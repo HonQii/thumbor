@@ -1,2 +1,2 @@
 thumbor-video-engine==1.1.1
-
+thumbor-expire
